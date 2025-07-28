@@ -14,19 +14,6 @@ Keeps tagged shots history and stats for quick analysis
 
 Works fully offline in your browser
 
-Why?
-Speeds up VFX bid breakdowns by letting you tag shots directly on the script, organized and exportable in minutes.
-
-Usage
-Paste your script.
-
-Highlight lines you want to tag.
-
-Select VFX tags, scene/shot numbers, add notes.
-
-Export CSV/JSON for your VFX bidding pipeline.
-
-
 -----------------------------------------------------
 
 Improvements / Features To Add
