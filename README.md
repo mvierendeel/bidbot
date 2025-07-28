@@ -32,7 +32,7 @@ Export CSV/JSON for your VFX bidding pipeline.
 Improvements / Features To Add
 
 
- Scalable for all devices (mobile/tablet/desktop)
+ Scalable for all devices (mobile/tablet/desktop), Optimize the interface with a responsive design for tablets (e.g., larger buttons, touch-friendly tagging)
 
  Font size selector for comfortable script reading, % , as well as size selector staying on top.
 
@@ -52,8 +52,16 @@ Improvements / Features To Add
 
  % done in script viewer
 
- 
+ Include PDF export with highlighted tags and script text, plus customizable CSV/JSON templates (e.g., columns for vendor-specific fields).
 
- 
+ Track changes to script breakdowns with an undo/redo stack or version history saved locally.
 
+ Allow users to assign complexity ratings (e.g., low/medium/high) to tagged shots
 
+Implement shortcuts for common actions (e.g., Ctrl+F to format, Ctrl+T to tag).
+
+Add a search bar to find scenes, tags, or text within the script.
+
+Include an interactive onboarding tour or embedded video guide for new users.
+
+Add export compatibility with ShotGrid, ftrack
