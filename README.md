@@ -30,26 +30,30 @@ Export CSV/JSON for your VFX bidding pipeline.
 -----------------------------------------------------
 
 Improvements / Features To Add
- Scroll script while keeping right panel in sight (sticky pane)
+
 
  Scalable for all devices (mobile/tablet/desktop)
 
- Font size selector for comfortable script reading
+ Font size selector for comfortable script reading, % , as well as size selector staying on top.
 
- Custom VFX tags creation + editing
+ Custom VFX Tag groups with custom export values
 
  Upload/download local breakdown files
 
- Autofill/dropdown for existing scene numbers
+ Autofill/dropdown for existing scene numbers and automatic incremental shotnumbers (increments of 10)
 
- Bid days per tag (auto-populate in CSV export)
+ View comments tags etc in script with mouse over
 
- Add departments to bid (Comp, FX, Tracking, etc.)
+ Current selected text light blue, tagged text yellow
 
- Possibly simplify using per-shot cost first (HTML limits)
+ Better script formatting
 
- Downloadable PWA (works offline, all devices)
+ client side live read module + comments
 
- Add Asset Group VFX Tag
+ % done in script viewer
+
+ 
+
+ 
 
 
