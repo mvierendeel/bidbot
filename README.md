@@ -65,3 +65,5 @@ Add a search bar to find scenes, tags, or text within the script.
 Include an interactive onboarding tour or embedded video guide for new users.
 
 Add export compatibility with ShotGrid, ftrack
+
+Multi selectin Manage Tags to delete, reassign groups. (Import Tags for re-use ?)
